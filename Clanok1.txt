@@ -2,9 +2,9 @@ Autor: Viktória Kormaníková
 Nazov: Ceramidy
 Datum: 2020/05/27
 ----
-Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
-a bude vzdy na 3 riadkoch bez ohladu na to
-ake dlhe budu.
+Ceramidy tvoria 50% kožnej bariéry.
+Ceramidy sú druhom lipidových molekúl, ktorý sa prirodzene vyskytuje v pokožke. 
+Sú kľúčové pre obnovu a hydratáciu kožnej bariéry. Bez ceramidov by bola pokožka suchá, podráždená a svrbela by.
 ----
 Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
 a bude vzdy na 3 riadkoch bez ohladu na to
