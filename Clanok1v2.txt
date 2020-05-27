@@ -1,0 +1,15 @@
+Autor: Viktória Kormaníková
+Nazov: Ceramidy verzia 2
+Datum: 2020/05/27
+----
+Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
+a bude vzdy na 3 riadkoch bez ohladu na to
+ake dlhe budu.
+----
+Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
+a bude vzdy na 3 riadkoch bez ohladu na to
+ake dlhe budu.
+----
+Tento text predstavuje ZAVER clanku. Bude hned pod styrmi pomlckami
+a bude vzdy na 3 riadkoch bez ohladu na to
+ake dlhe budu.
